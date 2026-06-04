@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Dataset files (if too large)
+data/
+datasets/
+
+# Model files
+*.h5
+*.pth
+*.pt
+*.ckpt
+
+# Logs
+logs/
+*.log
