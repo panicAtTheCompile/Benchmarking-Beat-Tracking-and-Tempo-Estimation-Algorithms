@@ -64,6 +64,7 @@ Used for:
 ---
 
 ## Methodology
+![Methodology Pipeline](figures/methodology_pipeline.png)
 
 ### Literature Review
 
@@ -99,6 +100,20 @@ The following metrics are used throughout the study:
 | P-score          | Beat sequence consistency    |
 | Information Gain | Beat prediction quality      |
 | Tempo Accuracy   | Tempo estimation performance |
+
+---
+
+### Overall Comparison
+
+![Overall Comparison](figures/overall_comparison.png)
+
+---
+
+### Genre-wise Performance
+
+![Genre-wise Comparison](figures/genre_fmeasure_comparison.png)
+
+Madmom consistently outperformed Librosa across most musical genres, with particularly strong gains on Jazz, Pop, and Hip-Hop recordings.
 
 ---
 
